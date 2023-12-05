@@ -1,3 +1,4 @@
+![Screenshot 2023-12-05 211733](https://github.com/Mrinal81/SS1/assets/76482022/cf0575b8-d807-47c8-bfb1-78c330acc5ef)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
